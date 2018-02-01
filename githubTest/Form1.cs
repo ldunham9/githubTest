@@ -21,5 +21,15 @@ namespace githubTest
         {
             lblTitle.Text = "Hello";
         }
+
+        private void gitHubTest_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnGoodbye_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
