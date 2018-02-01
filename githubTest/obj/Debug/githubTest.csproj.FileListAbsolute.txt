@@ -2,7 +2,6 @@ C:\Users\19dunhalucs\source\repos\githubTest\githubTest\bin\Debug\githubTest.exe
 C:\Users\19dunhalucs\source\repos\githubTest\githubTest\bin\Debug\githubTest.exe
 C:\Users\19dunhalucs\source\repos\githubTest\githubTest\bin\Debug\githubTest.pdb
 C:\Users\19dunhalucs\source\repos\githubTest\githubTest\obj\Debug\githubTest.csprojResolveAssemblyReference.cache
-C:\Users\19dunhalucs\source\repos\githubTest\githubTest\obj\Debug\githubTest.Form1.resources
 C:\Users\19dunhalucs\source\repos\githubTest\githubTest\obj\Debug\githubTest.Properties.Resources.resources
 C:\Users\19dunhalucs\source\repos\githubTest\githubTest\obj\Debug\githubTest.csproj.GenerateResource.Cache
 C:\Users\19dunhalucs\source\repos\githubTest\githubTest\obj\Debug\githubTest.csproj.CoreCompileInputs.cache
@@ -18,3 +17,4 @@ C:\Users\19daviedana\Documents\GitHub\githubTest\githubTest\obj\Debug\githubTest
 C:\Users\19daviedana\Documents\GitHub\githubTest\githubTest\obj\Debug\githubTest.csproj.CoreCompileInputs.cache
 C:\Users\19daviedana\Documents\GitHub\githubTest\githubTest\obj\Debug\githubTest.exe
 C:\Users\19daviedana\Documents\GitHub\githubTest\githubTest\obj\Debug\githubTest.pdb
+C:\Users\19dunhalucs\source\repos\githubTest\githubTest\obj\Debug\githubTest.gitHubTest.resources

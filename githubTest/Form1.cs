@@ -29,6 +29,7 @@ namespace githubTest
 
         private void btnGoodbye_Click(object sender, EventArgs e)
         {
+            lblTitle.Text = "goodbye";
             this.Close();
         }
     }
